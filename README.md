@@ -3,4 +3,4 @@ Datadog funcionalidades - Como configurarlo y utilizarlo crear un Dashboard con 
 
 Consulta la Wiki, dónde podrás encontrar más información de como funciona y como configurarlo.
 
-https://github.com/xavisan/Datadog/wiki/Datadog
+https://github.com/xavisan/Datadog/wiki
